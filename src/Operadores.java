@@ -5,6 +5,7 @@ public class Operadores {
         int publicacion = 5*4;
         int diviison = 10/2;
         int resto = 10/3;
+        int restode20 = 20/3;
 
         System.out.println("Suma ="+ suma);
         System.out.println(
